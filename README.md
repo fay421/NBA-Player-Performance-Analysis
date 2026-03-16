@@ -1,4 +1,6 @@
-![Player Performance]([https://github.com/fay421/NBA-Player-Performance-Analysis/blob/main/Images/Player%20Performence.JPG](https://github.com/fay421/NBA-Player-Performance-Analysis/blob/main/Images/Player%20Performence.JPG?raw=true))
+## Player Performance
+
+![Player Performance](Images/Player%20Performence.JPG)
 # NBA-Player-Performance-Analysis
 Tableau analysis of NBA player performance and scoring efficiency during the 2021–2022 season.
 NBA Player Performance Analysis (Tableau)
